@@ -1,0 +1,29 @@
+[
+  {
+    "lianjiaURL": "https://fs.lianjia.com/ershoufang/{{region}}/pg{{page}}",
+    "qfangURL": "https://foshan.qfang.com/sale/{{region}}/f{{page}}",
+    "name": "佛山",
+    "regions": [
+      {
+        "name": "顺德",
+        "spellName": "shunde"
+      },
+      {
+        "name": "南海",
+        "spellName": "nanhai"
+      },
+      {
+        "name": "禅城",
+        "spellName": "chancheng"
+      },
+      {
+        "name": "高明",
+        "spellName": "gaoming"
+      },
+      {
+        "name": "三水",
+        "spellName": "sanshui"
+      }
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+##
+# 默认的配置文件，所有环境通用
+##
+
+# 指定运行端口
+port: 3500
+
+# Logging levels
+# References: https://github.com/winstonjs/winston#logging-levels
+logLevel: info
+
+# 指定 API 目录前缀
+apiPrefix: /api
